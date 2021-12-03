@@ -1,5 +1,5 @@
 const inputBox = document.querySelector("#calc-input")
-
+//
 function addInput(inputValue){
   const currentInput = inputBox.value
   const operations = ['*', '/', '+', '-']
